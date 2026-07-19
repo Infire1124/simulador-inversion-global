@@ -16,4 +16,4 @@ Esta calculadora permite a los usuarios:
 * Chart.js
 
 ## Acceso
-Puedes probar la aplicación en vivo aquí: [https://infire1124.github.io/calculadora-financiera-dinamica/](https://infire1124.github.io/calculadora-financiera-dinamica/)
+Puedes probar la aplicación en vivo aquí: https://infire1124.github.io/calculadora-financiera-dinamica/
